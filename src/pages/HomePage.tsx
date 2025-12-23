@@ -105,7 +105,7 @@ export default function HomePage() {
               Your Birthday Universe
             </h3>
             <p className="text-xl sm:text-2xl text-purple-700 font-light max-w-3xl mx-auto opacity-90">
-              Every corner of this site is filled with our memories, laughter, and love — just for you, Gurleen 💫
+              Every corner of this site is filled with our memories, laughter, and love — just for you, Noora 💫
             </p>
           </div>
 
