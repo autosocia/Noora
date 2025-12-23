@@ -6,7 +6,7 @@ const messages = [
   "Whenever you need me and I can't be there physically, remember – I'm still right here with you, Billu.",
   "Distance means nothing when our friendship is this strong. I'm always just a thought away.",
   "Even if I'm not beside you, my heart is holding your hand tightly.",
-  "You are never alone, Gurleen. I'm always cheering for you from wherever I am.",
+  "You are never alone, Noora. I'm always cheering for you from wherever I am.",
   "In every moment you feel low, know that I'm sending you all my strength and hugs.",
   "I'm not there in person, but my love and support are wrapped around you like a warm blanket.",
   "Close your eyes and feel me smiling with you – I'm always in your corner.",
